@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)    # or the version you have installed
-project(test-gmock)
+project(test-gmock-1)
 
 # GoogleTest requires at least C++14
 set(CMAKE_CXX_STANDARD 14)
